@@ -2,17 +2,17 @@
 #EXTINF:-1,LTV
 udp://@239.2.4.201:1234
 
-#EXTINF:-1,LRT Televizija HD
-udp://@233.136.41.158:1234
-
-#EXTINF:-1,LRT Kultura HD
-udp://@239.2.4.204:1234
-
 #EXTINF:-1,LRT Kultura
 udp://@233.136.41.31:1234
 
 #EXTINF:-1,LRT Televizija
 udp://@233.136.41.12:1234
+
+#EXTINF:-1,LRT Televizija HD
+udp://@239.255.12.6:1234
+
+#EXTINF:-1,LRT Kultura HD
+udp://@239.2.4.204:1234
 
 #EXTINF:-1,LRT Televizija
 udp://@233.136.41.170:1234
@@ -23,6 +23,12 @@ udp://@233.136.41.147:1234
 #EXTINF:-1,LRT Plius
 udp://@233.136.41.171:1234
 
+#EXTINF:-1,LRT Televizija HD
+udp://@233.136.41.158:1234
+
+#EXTINF:-1,TV3 HD
+udp://@239.255.12.13:1234
+
 #EXTINF:-1,TV3
 udp://@233.136.41.39:1234
 
@@ -32,14 +38,23 @@ udp://@233.136.41.173:1234
 #EXTINF:-1,TV3 Lithuania
 udp://@239.2.4.202:1234
 
+#EXTINF:-1,LNK HD
+udp://@239.255.12.206:1234
+
 #EXTINF:-1,LNK
-udp://@233.136.41.13:1234
+udp://@233.136.41.172:1234
 
 #EXTINF:-1,LNK
 udp://@239.2.4.203:1234
 
 #EXTINF:-1,LNK
-udp://@233.136.41.172:1234
+udp://@233.136.41.13:1234
+
+#EXTINF:-1,TV6 HD
+udp://@239.255.12.16:1234
+
+#EXTINF:-1,TV6 HD
+udp://@239.255.12.212:1234
 
 #EXTINF:-1,TV6
 udp://@233.136.41.38:1234
@@ -49,6 +64,9 @@ udp://@233.136.41.175:1234
 
 #EXTINF:-1,TV6 Lithuania
 udp://@239.2.4.207:1234
+
+#EXTINF:-1,BTV HD
+udp://@239.255.12.209:1234
 
 #EXTINF:-1,BTV
 udp://@233.136.41.176:1234
@@ -68,17 +86,20 @@ udp://@239.2.4.206:1234
 #EXTINF:-1,TV1
 udp://@233.136.41.42:1234
 
+#EXTINF:-1,TV1000 Premium
+udp://@233.136.41.119:1234
+
+#EXTINF:-1,TV1 HD
+udp://@239.255.12.210:1234
+
+#EXTINF:-1,TV1000 Russkoe Kino
+udp://@233.136.41.40:1234
+
 #EXTINF:-1,TV1000
 udp://@233.136.41.41:1234
 
 #EXTINF:-1,TV1000 Action
 udp://@233.136.41.120:1234
-
-#EXTINF:-1,TV1000 Premium
-udp://@233.136.41.119:1234
-
-#EXTINF:-1,TV1000 Russkoe Kino
-udp://@233.136.41.40:1234
 
 #EXTINF:-1,Balticum Auksinis
 udp://@233.136.41.105:1234
@@ -86,14 +107,38 @@ udp://@233.136.41.105:1234
 #EXTINF:-1,Balticum TV
 udp://@233.136.41.21:1234
 
-#EXTINF:-1,MTV Hits
-udp://@233.136.41.142:1234
+#EXTINF:-1,Balticum Platinum
+udp://@239.255.12.4:1234
+
+#EXTINF:-1,Viasat Nature
+udp://@233.136.41.133:1234
+
+#EXTINF:-1,Viasat Explore HD
+udp://@233.136.41.141:1234
+
+#EXTINF:-1,Viasat Explore Nordic
+udp://@233.136.41.37:1234
+
+#EXTINF:-1,Viasat History
+udp://@233.136.41.34:1234
+
+#EXTINF:-1,Viasat History HD
+udp://@233.136.41.140:1234
+
+#EXTINF:-1,MTV Dance
+udp://@239.255.12.18:1234
 
 #EXTINF:-1,MTV Europe
 udp://@239.255.12.60:1234
 
+#EXTINF:-1,MTV Rocks
+udp://@239.255.12.19:1234
+
 #EXTINF:-1,MTV Europe
 udp://@233.136.41.30:1234
+
+#EXTINF:-1,MTV Hits
+udp://@233.136.41.142:1234
 
 #EXTINF:-1,Eurosport HD
 udp://@233.136.41.104:1234
@@ -101,26 +146,26 @@ udp://@233.136.41.104:1234
 #EXTINF:-1,Eurosport
 udp://@233.136.41.11:1234
 
-#EXTINF:-1,Eurosport 2
-udp://@239.255.12.58:1234
-
 #EXTINF:-1,Eurosport 1
 udp://@239.255.12.57:1234
 
 #EXTINF:-1,Eurosport 2
-udp://@233.136.41.19:1234
+udp://@239.255.12.58:1234
 
 #EXTINF:-1,Eurosport 2 HD
 udp://@233.136.41.143:1234
 
-#EXTINF:-1,Info TV
-udp://@233.136.41.17:1234
+#EXTINF:-1,Eurosport 2
+udp://@233.136.41.19:1234
+
+#EXTINF:-1,INFO TV
+udp://@239.2.4.211:1234
 
 #EXTINF:-1,Info TV
 udp://@233.136.41.177:1234
 
-#EXTINF:-1,INFO TV
-udp://@239.2.4.211:1234
+#EXTINF:-1,Info TV
+udp://@233.136.41.17:1234
 
 #EXTINF:-1,Liuks!
 udp://@233.136.41.14:1234
@@ -133,6 +178,9 @@ udp://@239.2.4.209:1234
 
 #EXTINF:-1,Lietuvos Ryto TV
 udp://@233.136.41.15:1234
+
+#EXTINF:-1,Lietuvos ryto televizija HD
+udp://@239.255.12.8:1234
 
 #EXTINF:-1,AMC
 udp://@233.136.41.203:1234
@@ -209,6 +257,9 @@ udp://@233.136.41.87:1234
 #EXTINF:-1,Deluxe Music HD
 udp://@233.136.41.96:1234
 
+#EXTINF:-1,Detskij Mir/Teleklub
+udp://@239.255.12.21:1234
+
 #EXTINF:-1,Deutsche Welle
 udp://@233.136.41.53:1234
 
@@ -238,6 +289,9 @@ udp://@233.136.41.2:1234
 
 #EXTINF:-1,Disney Channel
 udp://@233.136.41.90:1234
+
+#EXTINF:-1,Disney Channel
+udp://@239.255.12.23:1234
 
 #EXTINF:-1,Disney Junior
 udp://@233.136.41.237:1234
@@ -278,11 +332,17 @@ udp://@233.136.41.57:1234
 #EXTINF:-1,Fashion Television
 udp://@233.136.41.160:1234
 
+#EXTINF:-1,Filmzone MPEG2
+udp://@239.255.12.2:1234
+
 #EXTINF:-1,Filmzone+ HD
 udp://@233.136.41.161:1234
 
 #EXTINF:-1,Fine Living Network
 udp://@233.136.41.135:1234
+
+#EXTINF:-1,Food Network
+udp://@239.255.12.14:1234
 
 #EXTINF:-1,Fox
 udp://@239.255.12.48:1234
@@ -380,6 +440,9 @@ udp://@233.136.41.224:1234
 #EXTINF:-1,Nickelodeon
 udp://@233.136.41.223:1234
 
+#EXTINF:-1,Nickelodeon
+udp://@239.255.12.22:1234
+
 #EXTINF:-1,Novij Mir
 udp://@239.255.12.65:1234
 
@@ -455,9 +518,6 @@ udp://@233.136.41.75:1234
 #EXTINF:-1,Sport 1
 udp://@239.255.12.33:1234
 
-#EXTINF:-1,Sport1
-udp://@233.136.41.45:1234
-
 #EXTINF:-1,Sport1 HD
 udp://@233.136.41.163:1234
 
@@ -480,9 +540,6 @@ udp://@233.136.41.165:1234
 udp://@233.136.41.82:1234
 
 #EXTINF:-1,TV8
-udp://@233.136.41.179:1234
-
-#EXTINF:-1,TV8
 udp://@233.136.41.116:1234
 
 #EXTINF:-1,TVCI
@@ -500,6 +557,9 @@ udp://@239.255.12.62:1234
 #EXTINF:-1,TVPlay Sports
 udp://@233.136.41.36:1234
 
+#EXTINF:-1,TVPlay Sports HD
+udp://@239.255.12.10:1234
+
 #EXTINF:-1,Telekafe
 udp://@233.10.10.19:5000
 
@@ -509,26 +569,17 @@ udp://@233.136.41.44:1234
 #EXTINF:-1,Travel Channel HD
 udp://@233.136.41.124:1234
 
+#EXTINF:-1,Travel Channel HD
+udp://@239.255.12.15:1234
+
 #EXTINF:-1,VH1
 udp://@239.255.12.55:1234
 
+#EXTINF:-1,VH1 Classic
+udp://@239.255.12.20:1234
+
 #EXTINF:-1,VH1 European
 udp://@233.136.41.32:1234
-
-#EXTINF:-1,Viasat Explore HD
-udp://@233.136.41.141:1234
-
-#EXTINF:-1,Viasat Explore Nordic
-udp://@233.136.41.37:1234
-
-#EXTINF:-1,Viasat History
-udp://@233.136.41.34:1234
-
-#EXTINF:-1,Viasat History HD
-udp://@233.136.41.140:1234
-
-#EXTINF:-1,Viasat Nature
-udp://@233.136.41.133:1234
 
 #EXTINF:-1,Vremja
 udp://@233.10.10.21:5000
