@@ -2,8 +2,14 @@
 #EXTINF:-1,LTV
 udp://@239.2.4.201:1234
 
+#EXTINF:-1,LRT Plius
+udp://@233.136.41.171:1234
+
 #EXTINF:-1,LRT Kultura
 udp://@233.136.41.31:1234
+
+#EXTINF:-1,LRT Televizija HD
+udp://@233.136.41.158:1234
 
 #EXTINF:-1,LRT Televizija
 udp://@233.136.41.12:1234
@@ -19,12 +25,6 @@ udp://@233.136.41.170:1234
 
 #EXTINF:-1,LRT Lituanica
 udp://@233.136.41.147:1234
-
-#EXTINF:-1,LRT Plius
-udp://@233.136.41.171:1234
-
-#EXTINF:-1,LRT Televizija HD
-udp://@233.136.41.158:1234
 
 #EXTINF:-1,TV3 HD
 udp://@239.255.12.13:1234
@@ -65,6 +65,12 @@ udp://@233.136.41.175:1234
 #EXTINF:-1,TV6 Lithuania
 udp://@239.2.4.207:1234
 
+#EXTINF:-1,TV8
+udp://@233.136.41.179:1234
+
+#EXTINF:-1,TV8
+udp://@233.136.41.116:1234
+
 #EXTINF:-1,BTV HD
 udp://@239.255.12.209:1234
 
@@ -86,12 +92,6 @@ udp://@239.2.4.206:1234
 #EXTINF:-1,TV1
 udp://@233.136.41.42:1234
 
-#EXTINF:-1,TV1000 Premium
-udp://@233.136.41.119:1234
-
-#EXTINF:-1,TV1 HD
-udp://@239.255.12.210:1234
-
 #EXTINF:-1,TV1000 Russkoe Kino
 udp://@233.136.41.40:1234
 
@@ -100,6 +100,12 @@ udp://@233.136.41.41:1234
 
 #EXTINF:-1,TV1000 Action
 udp://@233.136.41.120:1234
+
+#EXTINF:-1,TV1000 Premium
+udp://@233.136.41.119:1234
+
+#EXTINF:-1,TV1 HD
+udp://@239.255.12.210:1234
 
 #EXTINF:-1,Balticum Auksinis
 udp://@233.136.41.105:1234
@@ -125,6 +131,9 @@ udp://@233.136.41.34:1234
 #EXTINF:-1,Viasat History HD
 udp://@233.136.41.140:1234
 
+#EXTINF:-1,MTV Hits
+udp://@233.136.41.142:1234
+
 #EXTINF:-1,MTV Dance
 udp://@239.255.12.18:1234
 
@@ -137,14 +146,14 @@ udp://@239.255.12.19:1234
 #EXTINF:-1,MTV Europe
 udp://@233.136.41.30:1234
 
-#EXTINF:-1,MTV Hits
-udp://@233.136.41.142:1234
-
 #EXTINF:-1,Eurosport HD
 udp://@233.136.41.104:1234
 
 #EXTINF:-1,Eurosport
 udp://@233.136.41.11:1234
+
+#EXTINF:-1,Eurosport 2
+udp://@233.136.41.19:1234
 
 #EXTINF:-1,Eurosport 1
 udp://@239.255.12.57:1234
@@ -154,9 +163,6 @@ udp://@239.255.12.58:1234
 
 #EXTINF:-1,Eurosport 2 HD
 udp://@233.136.41.143:1234
-
-#EXTINF:-1,Eurosport 2
-udp://@233.136.41.19:1234
 
 #EXTINF:-1,INFO TV
 udp://@239.2.4.211:1234
@@ -538,9 +544,6 @@ udp://@233.136.41.165:1234
 
 #EXTINF:-1,TV5 Monde Europe
 udp://@233.136.41.82:1234
-
-#EXTINF:-1,TV8
-udp://@233.136.41.116:1234
 
 #EXTINF:-1,TVCI
 udp://@233.136.41.83:1234
