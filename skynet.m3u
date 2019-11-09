@@ -8,68 +8,26 @@ udp://@239.255.15.64:1234
 #EXTINF:-1,LRT Televizija
 udp://@239.255.15.66:1234
 
-#EXTINF:-1,LRT Televizija
-udp://@239.255.14.31:1234
-
-#EXTINF:-1,LRT Plius
-udp://@239.255.14.32:1234
-
 #EXTINF:-1,TV3 HD
 udp://@239.255.15.122:1234
-
-#EXTINF:-1,TV3
-udp://@239.255.13.4:1234
 
 #EXTINF:-1,LNK HD
 udp://@239.255.15.63:1234
 
-#EXTINF:-1,LNK
-udp://@239.255.14.33:1234
-
-#EXTINF:-1,LNK
-udp://@239.255.13.8:1234
-
-#EXTINF:-1,LNK
-udp://@239.255.13.28:1234
-
 #EXTINF:-1,TV6
 udp://@239.255.15.112:1234
-
-#EXTINF:-1,TV6
-udp://@239.255.13.6:1234
-
-#EXTINF:-1,TV8
-udp://@239.255.13.15:1234
 
 #EXTINF:-1,TV8
 udp://@239.255.15.113:1234
 
-#EXTINF:-1,TV8
-udp://@239.255.13.15:1234
-
 #EXTINF:-1,BTV HD
 udp://@239.255.15.11:1234
 
-#EXTINF:-1,BTV
-udp://@239.255.14.35:1234
-
-#EXTINF:-1,BTV
-udp://@239.255.13.5:1234
-
-#EXTINF:-1,TV1
-udp://@239.255.14.34:1234
-
-#EXTINF:-1,TV1
-udp://@239.255.13.9:1234
+#EXTINF:-1,TV1000 Action
+udp://@239.255.15.118:1234
 
 #EXTINF:-1,TV1000 Premium
 udp://@239.255.15.119:1234
-
-#EXTINF:-1,TV1000 Russkoje Kino
-udp://@239.255.15.121:1234
-
-#EXTINF:-1,TV1000 Premium
-udp://@239.255.15.120:1234
 
 #EXTINF:-1,TV1000 East
 udp://@239.255.15.117:1234
@@ -77,20 +35,14 @@ udp://@239.255.15.117:1234
 #EXTINF:-1,TV1 HD
 udp://@239.255.15.116:1234
 
-#EXTINF:-1,TV1000 Action
-udp://@239.255.15.118:1234
-
-#EXTINF:-1,Balticum Auksinis
-udp://@239.255.15.4:1234
-
-#EXTINF:-1,Balticum TV
-udp://@239.255.15.5:1234
-
-#EXTINF:-1,Balticum TV
-udp://@239.255.13.17:1234
+#EXTINF:-1,TV1000 Premium
+udp://@239.255.15.120:1234
 
 #EXTINF:-1,Balticum Platinum
 udp://@239.255.15.110:1234
+
+#EXTINF:-1,Viasat Nature
+udp://@239.255.15.133:1234
 
 #EXTINF:-1,Viasat Explore
 udp://@239.255.15.131:1234
@@ -98,8 +50,8 @@ udp://@239.255.15.131:1234
 #EXTINF:-1,Viasat History HD
 udp://@239.255.15.132:1234
 
-#EXTINF:-1,Viasat Nature
-udp://@239.255.15.133:1234
+#EXTINF:-1,MTV Live HD
+udp://@239.255.15.74:1234
 
 #EXTINF:-1,MTV Europe
 udp://@239.255.15.71:1234
@@ -113,9 +65,6 @@ udp://@239.255.15.72:1234
 #EXTINF:-1,MTV Rocks
 udp://@239.255.15.75:1234
 
-#EXTINF:-1,MTV Live HD
-udp://@239.255.15.74:1234
-
 #EXTINF:-1,Eurosport HD
 udp://@239.255.15.37:1234
 
@@ -128,41 +77,14 @@ udp://@239.255.15.36:1234
 #EXTINF:-1,Eurosport 2
 udp://@239.255.15.35:1234
 
-#EXTINF:-1,Eurosport 1
-udp://@239.255.13.19:1234
-
-#EXTINF:-1,Info TV
-udp://@239.255.14.37:1234
-
 #EXTINF:-1,Info TV HD
 udp://@239.255.15.52:1234
 
 #EXTINF:-1,Liuks!
 udp://@239.255.15.62:1234
 
-#EXTINF:-1,Lietuvos rytas TV
-udp://@239.255.14.36:1234
-
 #EXTINF:-1,Lietuvos ryto televizija
 udp://@239.255.15.67:1234
-
-#EXTINF:-1,Lietuvos ryto televizija
-udp://@239.255.13.7:1234
-
-#EXTINF:-1,AMC
-udp://@239.255.15.1:1234
-
-#EXTINF:-1,Animal Planet
-udp://@239.255.15.2:1234
-
-#EXTINF:-1,Animal Planet HD
-udp://@239.255.15.3:1234
-
-#EXTINF:-1,Belarus 24
-udp://@239.255.15.6:1234
-
-#EXTINF:-1,Bloomberg Europe
-udp://@239.255.15.7:1234
 
 #EXTINF:-1,Bober
 udp://@239.255.15.8:1234
@@ -188,15 +110,6 @@ udp://@239.255.15.27:1234
 #EXTINF:-1,DaVinci Learning
 udp://@239.255.15.15:1234
 
-#EXTINF:-1,Detskij Mir
-udp://@239.255.15.16:1234
-
-#EXTINF:-1,Deutsche Welle
-udp://@239.255.15.30:1234
-
-#EXTINF:-1,Discovery Channel
-udp://@239.255.13.13:1234
-
 #EXTINF:-1,Discovery Channel
 udp://@239.255.15.17:1234
 
@@ -212,9 +125,6 @@ udp://@239.255.15.22:1234
 #EXTINF:-1,Discovery TLC
 udp://@239.255.15.109:1234
 
-#EXTINF:-1,Discovery Turbo Xtra
-udp://@239.255.15.18:1234
-
 #EXTINF:-1,Disney Channel
 udp://@239.255.15.23:1234
 
@@ -224,14 +134,8 @@ udp://@239.255.15.24:1234
 #EXTINF:-1,Disney XD
 udp://@239.255.15.25:1234
 
-#EXTINF:-1,Dom Kino
-udp://@239.255.15.26:1234
-
 #EXTINF:-1,Duck TV
 udp://@239.255.15.28:1234
-
-#EXTINF:-1,Duck TV
-udp://@239.255.15.29:1234
 
 #EXTINF:-1,English Club TV
 udp://@239.255.15.31:1234
@@ -242,20 +146,8 @@ udp://@239.255.15.33:1234
 #EXTINF:-1,Euronews Russian
 udp://@239.255.15.32:1234
 
-#EXTINF:-1,FOX
-udp://@239.255.13.20:1234
-
-#EXTINF:-1,FOX
-udp://@239.255.15.44:1234
-
 #EXTINF:-1,Fashion TV
 udp://@239.255.15.39:1234
-
-#EXTINF:-1,Filmzone MPEG2 (Main)
-udp://@239.255.15.40:1234
-
-#EXTINF:-1,Filmzone+
-udp://@239.255.15.41:1234
 
 #EXTINF:-1,Fine Living
 udp://@239.255.15.42:1234
@@ -264,16 +156,10 @@ udp://@239.255.15.42:1234
 udp://@239.255.15.43:1234
 
 #EXTINF:-1,Fox Life
-udp://@239.255.13.18:1234
-
-#EXTINF:-1,Fox Life
 udp://@239.255.15.45:1234
 
 #EXTINF:-1,France 24
 udp://@239.255.15.46:1234
-
-#EXTINF:-1,Funbox UHD
-udp://@239.255.14.1:1234
 
 #EXTINF:-1,ID
 udp://@239.255.15.49:1234
@@ -286,18 +172,6 @@ udp://@239.255.15.51:1234
 
 #EXTINF:-1,JimJam
 udp://@239.255.15.53:1234
-
-#EXTINF:-1,Juvelirochka
-udp://@239.255.15.47:1234
-
-#EXTINF:-1,KBH TV
-udp://@239.255.15.61:1234
-
-#EXTINF:-1,Karusel Int
-udp://@239.255.15.54:1234
-
-#EXTINF:-1,KidZone
-udp://@239.255.15.55:1234
 
 #EXTINF:-1,Kidzone+ HD
 udp://@239.255.15.56:1234
@@ -332,9 +206,6 @@ udp://@239.255.15.83:1234
 #EXTINF:-1,NTV Mir Lithuania
 udp://@239.255.13.21:1234
 
-#EXTINF:-1,NTV Mir Lithuania
-udp://@239.255.13.12:1234
-
 #EXTINF:-1,NTV-Pravo
 udp://@239.255.15.84:1234
 
@@ -344,14 +215,8 @@ udp://@239.255.15.85:1234
 #EXTINF:-1,NTV-Style
 udp://@239.255.15.86:1234
 
-#EXTINF:-1,Nashe Lubimoe Kino
-udp://@239.255.15.77:1234
-
 #EXTINF:-1,Nashe Novoe Kino HD
 udp://@239.255.15.78:1234
-
-#EXTINF:-1,National Geographic
-udp://@239.255.13.14:1234
 
 #EXTINF:-1,National Geographic Channel
 udp://@239.255.15.80:1234
@@ -370,9 +235,6 @@ udp://@239.255.15.87:1234
 
 #EXTINF:-1,Ohota i Rybalka
 udp://@239.255.15.88:1234
-
-#EXTINF:-1,Pervyj Baltijskij Kanal
-udp://@239.255.13.10:1234
 
 #EXTINF:-1,Pervyj Baltijskij Kanal
 udp://@239.255.15.89:1234
@@ -395,14 +257,8 @@ udp://@239.255.15.93:1234
 #EXTINF:-1,RBK TV
 udp://@239.255.15.94:1234
 
-#EXTINF:-1,REN TV Lietuva
-udp://@239.255.13.11:1234
-
 #EXTINF:-1,RTR Planeta
 udp://@239.255.15.98:1234
-
-#EXTINF:-1,RTVi
-udp://@239.255.15.99:1234
 
 #EXTINF:-1,Ren TV Baltic
 udp://@239.255.15.95:1234
@@ -452,9 +308,6 @@ udp://@239.255.15.115:1234
 #EXTINF:-1,TVCI
 udp://@239.255.15.123:1234
 
-#EXTINF:-1,TVE Internacional
-udp://@239.255.15.124:1234
-
 #EXTINF:-1,TVP Info
 udp://@239.255.15.125:1234
 
@@ -487,9 +340,6 @@ udp://@239.255.15.129:1234
 
 #EXTINF:-1,Vremja
 udp://@239.255.15.134:1234
-
-#EXTINF:-1,WORLD of MUSIC
-udp://@239.255.14.22:1234
 
 #EXTINF:-1,Zvaigzde
 udp://@239.255.15.135:1234
